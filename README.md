@@ -3,4 +3,4 @@
 ## Links
 Aplicação: https://www.jdoodle.com/embed/v0/4FWp
 
-Leia: https://sites.google.com/view/jll-products/tutorial-assembler-8-bits-simulador-em-javascript
+Leia: https://sites.google.com/view/jll-products/programas/somador-bin%C3%A1rio-em-java
